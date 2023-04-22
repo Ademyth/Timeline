@@ -4,7 +4,7 @@ Hey there Human!, This timeline is where I dump all my random musings and wacky 
 
 ## Getting Started
 
-You can view the project on [Timeline]() or clone this repository
+You can view the project on [Timeline](https://ademyth.github.io/Timeline/) or clone this repository😇
 
 ## Built With
 
