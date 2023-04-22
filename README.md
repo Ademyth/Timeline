@@ -1,6 +1,6 @@
  # AdeMyth Timeline
 
-Hey there, Human! This timeline is where I dump all my random musings and wacky shenanigans. It's like a big, fabulous playground for my brain in order not to forget.
+Hey there Human!, This timeline is where I dump all my random musings and wacky shenanigans. It's like a big, fabulous playground for my brain in order not to forget.
 
 ## Getting Started
 
