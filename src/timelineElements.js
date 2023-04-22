@@ -51,7 +51,7 @@ let timelineElements = [
 
   {
     id: 8,
-    title: "Forexa and Crypto",
+    title: "Forex and Crypto",
     description:
       "Started learning about Forex Trading and Crypto Trading",
     date: "2019",
