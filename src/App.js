@@ -18,7 +18,7 @@ function App() {
   return (
     <div>
       <h2 className="title">AdeMyth Timeline</h2>
-      <p className="short">Hey there, Human! This timeline is where I dump all my random musings and wacky shenanigans. It's like a big, fabulous playground for my brain in order not to forget.😁🤭</p>
+      <p className="short">Hey there Human!, This timeline is where I dump all my random musings and wacky shenanigans. It's like a big, fabulous playground for my brain in order not to forget.😁🤭</p>
       <VerticalTimeline>
         {timelineElements.map((element) => {
           let isWorkIcon = element.icon === "work";
