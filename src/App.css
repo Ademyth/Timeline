@@ -1,5 +1,5 @@
 body {
-    background: #026bce;
+    background: blue;
     font-family: "Montserrat", sans-serif;
     color: rgb(53, 53, 53);
   }
@@ -8,12 +8,14 @@ body {
     font-size: 2em;
     text-align: center;
     font-family: "Bebas Neue", sans-serif;
+    color: black;
   }
 
   .short {
     font-size: 1.5em;
     text-align: center;
     font-size: 15px;
+    color: black;
   }
   
   h3 {
