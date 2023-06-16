@@ -109,7 +109,7 @@ let timelineElements = [
     title: "React Gig",
     description:
       "Made my first six figures.",
-    date: "2022",
+    date: "July - 2022",
     icon: "work",
   },
 
