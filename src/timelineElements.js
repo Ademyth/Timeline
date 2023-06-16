@@ -78,48 +78,39 @@ let timelineElements = [
 
   {
     id: 11,
-    title: "5 Months of Depression",
-    description:
-      "Lost a lot(Would have loved to say the full story but Nah.)... Got depressed to the point I forgot some trading theories. TRUST NO HUMAN GUYS",
-    date: "2021",
-    icon: "school",
-  },
-
-  {
-    id: 12,
     title: "My very first remote Internship",
     description:
       "Interned as a Typescript Backend Engineer at Softkave(A startup company)",
     date: "2021",
-    icon: "work",
+    icon: "school",
   },
 
 
   {
-    id: 13,
+    id: 12,
     title: "Just had to REACT",
     description:
       "Started learning React and built my first chat web application using chatengine.io api",
+    date: "January - 2022",
+    icon: "work",
+  },
+
+  {
+    id: 13,
+    title: "Wordpress Gig",
+    description:
+      "Got my first wordpress gig to work on a Real Estate site",
     date: "January - 2022",
     icon: "school",
   },
 
   {
     id: 14,
-    title: "Wordpress Gig",
-    description:
-      "Got my first wordpress gig to work on a Real Estate site",
-    date: "January - 2022",
-    icon: "work",
-  },
-
-  {
-    id: 15,
     title: "React Gig",
     description:
       "Made my first six figures.",
     date: "2022",
-    icon: "school",
+    icon: "work",
   },
 
 
