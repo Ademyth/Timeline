@@ -3,7 +3,7 @@ let timelineElements = [
     id: 1,
     title: "Waking up to this reality...",
     description:
-      "On this day, I woke up to reality—a day I can't remember, but I knew I cried because why Nigeria🥲💔",
+      "On this day, I woke up to reality a day I can't remember, but I knew I cried because why Nigeria🥲💔",
     date: "2001",
     icon: "work",
   },
