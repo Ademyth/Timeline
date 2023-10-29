@@ -19,7 +19,7 @@ let timelineElements = [
     id: 3,
     title: "Playing with Python",
     description:
-      "Understood the basics of Python and built a simple whatsapp bot, face detection program, and many others I can't remember",
+      "Understood the basics of Python and built a simple whatsapp bot, face detection program, automated processes with python and selenium.",
     date: "2018",
     icon: "work",
   },
